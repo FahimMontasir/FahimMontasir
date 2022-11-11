@@ -19,12 +19,11 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Web Developer from Bangladesh<img src="https://media.giphy.com/media/d68IK2DovJ2MI2UTjJ/giphy.gif" width="20">.
-- 🔭 I’m currently working as a Jr software engineer at Prottasha Health Care Ltd.
-- 🌱 I’m currently learning CSE Fundamentals
+- 🔭 I’m currently working as a Full-stack Developer at Prottasha Health Care Ltd.
+- 🌱 I’m currently learning CSE Fundamentals and Mircoservices(NextJs, ExpressJs & Mongo)
 - 💬 Ask me about ReactJs, React Native and NodeJs
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-montasir/)
 - 😄 Pronouns: fa-him mon-ta-si-r
-- ⚡ Fun fact: ...
 
 ---
 
