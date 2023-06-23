@@ -19,7 +19,6 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Web Developer from Bangladesh<img src="https://media.giphy.com/media/d68IK2DovJ2MI2UTjJ/giphy.gif" width="20">.
-- 🔭 I’m `seeking new job opportunities.`
 - 🌱 I’m currently learning Microservice architecture. 
 - 💬 Ask me about ReactJs, NextJs, React Native and NodeJs
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-montasir/)
