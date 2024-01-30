@@ -13,9 +13,6 @@
   </a>
 </div>
  <img src="https://komarev.com/ghpvc/?username=FahimMontasir&style=flat&color=blue" alt="Fahim's profile view"/>
-   <a href="https://app.codesignal.com/profile/fahim_m_bbd">
-    <img src="https://codesignal.com/wp-content/uploads/2023/01/Logo.svg" alt="CodeSignal Badge" width="100"/>
-  </a>
 </div>
 
 ---
