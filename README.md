@@ -19,8 +19,8 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Web Developer from Bangladesh<img src="https://media.giphy.com/media/d68IK2DovJ2MI2UTjJ/giphy.gif" width="20">.
-- 🌱 I’m currently learning Microservice architecture. 
-- 💬 Ask me about ReactJs, NextJs, React Native and NodeJs
+- 🌱 I'm continually acquiring [new technical knowledge and enhancing my skills](https://github.com/FahimMontasir/cse-fundamentals).
+- 💬 Ask me about ReactJs, NextJs, React Native and NodeJs ...more.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-montasir/)
 - 😄 Pronouns: fa-him mon-ta-si-r
 
@@ -47,8 +47,4 @@ I am a Full Stack Web Developer from Bangladesh<img src="https://media.giphy.com
 
 ---
 
-### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FahimMontasir&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimMontasir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
